@@ -2,7 +2,7 @@
 #define MAIN_H
 
 int _abs(int n);
+int _putchar(char c);
+int print_last_digit(int n);
 
 #endif
-
-int _putchar(char c);
