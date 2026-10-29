@@ -4,3 +4,5 @@
 int _abs(int n);
 
 #endif
+
+int _putchar(char c);
